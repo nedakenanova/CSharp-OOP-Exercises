@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CO10_ShapesClass", "CO10_ShapesClass\CO10_ShapesClass.csproj", "{26D2CB30-15D3-4A92-A969-108DBA1923A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C011-Animal", "C011-Animal\C011-Animal.csproj", "{2EDC587C-8344-47B2-AC8C-47BE2FAF6259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D2CB30-15D3-4A92-A969-108DBA1923A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D2CB30-15D3-4A92-A969-108DBA1923A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D2CB30-15D3-4A92-A969-108DBA1923A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D2CB30-15D3-4A92-A969-108DBA1923A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDC587C-8344-47B2-AC8C-47BE2FAF6259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDC587C-8344-47B2-AC8C-47BE2FAF6259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDC587C-8344-47B2-AC8C-47BE2FAF6259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDC587C-8344-47B2-AC8C-47BE2FAF6259}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10057C56-BFCF-4D57-96E3-3E719F04F8E1}
+	EndGlobalSection
+EndGlobal
